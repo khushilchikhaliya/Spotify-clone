@@ -18,6 +18,10 @@ body {
     background-color: black;
     color: white;
 }
+.demo-notice{
+    display : flex;
+    justify-content: center;
+}
 
 .left {
     width: 25vw;
